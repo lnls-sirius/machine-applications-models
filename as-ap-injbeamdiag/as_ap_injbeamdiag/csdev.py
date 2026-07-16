@@ -34,6 +34,13 @@ pvs_database = {
         'enums': _csdev.ETypes.DISCONN_CONN,
         'unit': 'DisconnConn',
     },
+    # 'TBTrajRef-SP': {
+    #     'type': 'int',
+    #     'value': Const.NRPTS_TB_TRAJ_DEF,
+    #     'lolim': 1,
+    #     'hilim': Const.NRPTS_TB_TRAJ_MAX,
+    #     'unit': '#',
+    # },
     'TBTrajNrPts-SP': {
         'type': 'int',
         'value': Const.NRPTS_TB_TRAJ_DEF,

@@ -4,7 +4,7 @@ import logging as _log
 import time as _time
 
 import epics as _epics
-import numpy as _np
+
 from siriuspy.callbacks import Callback as _Callback
 from siriuspy.devices import DCCT as _DCCT, DeviceSet as _DeviceSet, \
     SOFB as _SOFB
