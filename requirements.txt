@@ -1,0 +1,6 @@
+mathphys>=2.8.0
+pcaspy>=0.7.3
+siriuspy>=2.2.0
+trackcpp>=4.10.6
+pyaccel>=3.18.4
+pymodels>=1.21.2
